@@ -12,6 +12,7 @@ Python • HTML • CSS • JavaScript • Git • GitHub • Discord.py • Aut
 
 | Project | What it does |
 |---|---|
+| [**Minecraft Survival Server Setup**](https://github.com/GoodoldHuxton/minecraft-survival-server-setup) | Production-ready Paper server: ranks, grief protection, rollback, anti-cheat, Discord, backups, tuned for performance, 29 automated tests |
 | [**Price Tracker Pro**](https://github.com/GoodoldHuxton/price-tracker-pro) | Desktop price monitoring app with automated email alerts, Excel export and multilingual support |
 | [**Discord Moderation Bot**](https://github.com/GoodoldHuxton/Discord-Moderation-Bot) | Customizable moderation and community bot with slash commands, role menus, welcome messages and mod logs |
 | [**goodoldhuxton.github.io**](https://github.com/GoodoldHuxton/goodoldhuxton.github.io) | My developer site, home of the Putzkraft Android app |
